@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "967676254822",
+    "project_id": "trainza",
+    "storage_bucket": "trainza.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967676254822:android:6de16a9246daf96a3feba7",
+        "android_client_info": {
+          "package_name": "com.club.runner.clubRunner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967676254822-1kismq3mnqhl0av24suesfi89o33hhbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.club.runner.clubRunner",
+            "certificate_hash": "8b1e25911ffab1ac88fff67159916dec8d055b50"
+          }
+        },
+        {
+          "client_id": "967676254822-c7tknfq4rg05nsu6hghsom26reoj34gh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.club.runner.clubRunner",
+            "certificate_hash": "88ee678005495b1a635ccd3e6cf1ab63f8451cb1"
+          }
+        },
+        {
+          "client_id": "967676254822-dbq0ir7uvqgc2dp45ts6gn1qag3u5q96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.club.runner.clubRunner",
+            "certificate_hash": "b55d01e402590c59c8e325c7d6e25ab21fce4e02"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXzYXx4nDjVbGsjxh925JLtINYhGfYWKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967676254822-a6rq1eu9garup5bl18rlqvkp3iun7j9e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutter.trainza"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
